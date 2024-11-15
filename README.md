@@ -9,20 +9,20 @@ A task management application designed to help users prioritize and organize the
 # Purpose
 The goal of PriorityPilot is to provide users with a straightforward tool to manage their tasks and optimize productivity. This project showcases a practical implementation of software development skills gained during my academic journey.
 
-#Known Issues
+# Known Issues
 - Edit Button: The edit functionality is currently non-operational.
 - Settings Panel: Retrieves data but does not save changes.
 - Notifications: Planned but not yet implemented.
 
-#Future Enhancements
+# Future Enhancements
 - Mobile Application: Develop a mobile version for cross-platform accessibility.
 - Notifications: Add reminders and alerts for pending tasks.
 - Improved User Interface: Enhance aesthetics and usability.
 
-#Technologies Used
+# Technologies Used
 - Programming Language: Java
 - GUI Framework: JavaFX
 - Database: MySQL
 
-#Acknowledgments
+# Acknowledgments
 This project was developed as part of my capstone for my Bachelor’s in Information Technology.
